@@ -1,4 +1,4 @@
-# DSNGenderRepresentation
+# GenderRepresentation
 Analysis of gender representation in Stack Overflow's annual developer survey
 
 ### Table of Contents
