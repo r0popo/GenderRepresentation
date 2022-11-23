@@ -20,7 +20,7 @@ Three key questions this project focuses on are:
 2. Is the engagement of different genders in various coding-related communities the same of does it vary?
 3. Do different genders develop interest in coding at the same age or is there a noticeable difference?
 
-## File Descriptions <a name="files"></a>
+## File Descriptions<a name="files"></a>
 An available notebook showcases work related to the above questions. The notebook is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to add context and outline the thought process for individual steps.
 
 ## Results<a name="results"></a>
